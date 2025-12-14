@@ -1,0 +1,5 @@
+pyrogram==2.0.106
+pyaes==1.6.1
+pysocks==1.7.1
+yt-dlp
+
